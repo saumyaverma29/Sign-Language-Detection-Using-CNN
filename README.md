@@ -1,0 +1,1 @@
+The main objective is to design and implement a robust CNN-based model capable of recognizing and classifying sign language gestures accurately. The system aims to bridge the communication gap for individuals who use sign language as their primary means of expression.
